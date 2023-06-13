@@ -1,0 +1,30 @@
+{
+  "name": "week-10-svg-logo-maker-challenge",
+  "version": "1.0.0",
+  "description": "Generating a logo saved as a SVG file and generating it from the terminal taking in user input, prompting them with questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "AJosueBN",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJosueBN/week-10-svg-logo-maker-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AJosueBN/week-10-svg-logo-maker-challenge/issues"
+  },
+  "homepage": "https://github.com/AJosueBN/week-10-svg-logo-maker-challenge#readme"
+}
