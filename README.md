@@ -4,5 +4,6 @@
 
 # Things added/implemented on to the task of generating an SVG Logo:
 
-- 
-
+- Allowed terminal to accept user input with Inquirer involved and a promise function involved.                            Depending on the details the user has put in, those details will then be displayed on the logo.svg file from the prompted enquiries that have been asked 
+- When the user is prompted for text (up to three characters),shape colour and the type of shape(circle , square , triangle) and once the terminal has accepted all of its input for all of the prompts, then an SVG file will be generated using a logo.svg file and prints that it has generated onto the terminal
+- Depending on the input given within the command-line interface, the results can be displayed on a browser and can be shown a 300x200 pixel image which matches the criteria that the user has entered.
