@@ -10,6 +10,9 @@
 
 
 # Examples of logo.svg generated
+- https://github.com/AJosueBN/week-10-svg-logo-maker-challenge/blob/main/Assets/circle.svg
+- https://github.com/AJosueBN/week-10-svg-logo-maker-challenge/blob/main/Assets/square.svg
+- https://github.com/AJosueBN/week-10-svg-logo-maker-challenge/blob/main/Assets/triangle.svg
 
 
 
