@@ -9,12 +9,16 @@
 - Depending on the input given within the command-line interface, the results can be displayed on a browser and can be shown a 300x200 pixel image which matches the criteria that the user has entered.
 
 
-# Example of logo.svg 
+# Examples of logo.svg generated
+
+
 
 
 
 
 # Video walkthrough for functionality of SVG Logo Generator
+
+[SVG Logo Generator VIDEO.zip](https://github.com/AJosueBN/week-10-svg-logo-maker-challenge/files/11803088/SVG.Logo.Generator.VIDEO.zip)
 
 
 
